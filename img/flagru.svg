@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 275 183" width="275" height="183">
+	<title>flagru</title>
+	<defs>
+		<image  width="275" height="183" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3BAMAAADDfafHAAAAAXNSR0IB2cksfwAAABJQTFRF////ABieADmmADqt3yoA1SsedcgxJwAAANVJREFUeJztzjEVAkEQQDFGAhawgAUs4F8IcFDto/n9XpEoyFxOY3YH/lSKSlEpKkWlqBSVolJUikpRKSpFpagUlaJSVIpKUSkqRaWoFJWiUlSKSlEpKkWlnKly3T1YvnPbXVgOlaBSVIpKUSkqRaWoFJWiUlSKSlEpKkWlqBSVolJUikpRKSpFpagUlaJSVIpKUSnH3HcXls88dheW9zx3F5aXSlApKkWlqBSVolJUikpRKSpFpagUlaJSVIpKUSkqRaWoFJWiUlSKSlEpKkWlqJQzVX6+rJVYW1GllgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

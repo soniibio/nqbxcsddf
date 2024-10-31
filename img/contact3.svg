@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>contact1-svg</title>
+	<defs>
+		<image width="50" height="50" id="img1" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPjxwYXRoIGQ9Ik0xMiAyMy40MDNWMjMuMzkgMTAuMzg5TDExLjg4IDEwLjNoLS4wMUw5LjE0IDguMjhDNy40NyA3LjA0IDUuMDkgNy4xIDMuNjEgOC41NiAyLjYyIDkuNTQgMiAxMC45IDIgMTIuNDF2My42MDJMMTIgMjMuNDAzek0zOCAyMy4zOXYuMDEzbDEwLTcuMzkxVjEyLjQxYzAtMS40OS0uNi0yLjg1LTEuNTgtMy44My0xLjQ2LTEuNDU3LTMuNzY1LTEuNjI4LTUuNDI0LS40MDNMMzguMTIgMTAuMyAzOCAxMC4zODlWMjMuMzl6TTE0IDI0Ljg2OGwxMC40MDYgNy42OTJjLjM1My4yNjEuODM2LjI2MSAxLjE4OSAwTDM2IDI0Ljg2OFYxMS44NjdMMjUgMjBsLTExLTguMTMzVjI0Ljg2OHpNMzggMjUuODg5VjQxYzAgLjU1Mi40NDggMSAxIDFoNi41YzEuMzgxIDAgMi41LTEuMTE5IDIuNS0yLjVWMTguNDk3TDM4IDI1Ljg4OXpNMTIgMjUuODg5TDIgMTguNDk3VjM5LjVDMiA0MC44ODEgMy4xMTkgNDIgNC41IDQySDExYy41NTIgMCAxLS40NDggMS0xVjI1Ljg4OXoiLz48L3N2Zz4="/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #f8c479 } 
+	</style>
+	<path class="s0" d="m15 29.5c-8 0-14.5-6.5-14.5-14.5 0-8 6.5-14.5 14.5-14.5 8 0 14.5 6.5 14.5 14.5 0 8-6.5 14.5-14.5 14.5z"/>
+	<use id="icons8-gmail" href="#img1" transform="matrix(.44,0,0,.44,4,4)"/>
+</svg>
